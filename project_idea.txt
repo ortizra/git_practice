@@ -1,0 +1,1 @@
+Here is a text document to track some project ideas and learn how to use git.
